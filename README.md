@@ -1,0 +1,2 @@
+# quicksight
+Static Web Redirect
